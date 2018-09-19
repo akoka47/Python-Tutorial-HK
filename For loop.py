@@ -1,4 +1,4 @@
-# !/usr/bin/env python
+#!/usr/bin/env python
 # programming by hk.mohamed
 # lesson_ for loop
 
