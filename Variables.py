@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# programming by hk.mohamed
+# programming by: hk.mohamed
 # lesson _ variables 
 
 var_num = 100
